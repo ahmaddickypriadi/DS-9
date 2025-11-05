@@ -75,7 +75,7 @@ if ($_POST) {
                     <div class="card-body p-5">
                         <div class="text-center mb-4">
                             <i class="bi bi-shop text-primary" style="font-size: 3rem;"></i>
-                            <h3 class="mt-3 text-dark">Sistem CRUD</h3>
+                            <h3 class="mt-3 text-dark">DICKY SPORT 9</h3>
                             <p class="text-muted">Silakan login untuk melanjutkan</p>
                         </div>
                         
